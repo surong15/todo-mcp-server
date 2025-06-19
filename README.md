@@ -50,9 +50,9 @@ node test.js
 
 3. 重新啟動 Claude Desktop
 
-4. 用 `node dist/server.js` 開啟server
-
 ## 使用方法
+
+用 `node dist/server.js` 啟動server
 
 ### 新增任務
 ```
