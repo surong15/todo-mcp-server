@@ -1,6 +1,7 @@
 # Todo MCP Server
 
 個人待辦清單 MCP Server，讓 AI 助手能夠幫你管理任務。
+（程式碼皆由Claude生成）
 
 ## 功能特色
 
