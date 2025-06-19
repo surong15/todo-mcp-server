@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "todo": {
+      "command": "node",
+      "args": ["./dist/server.js"],
+      "cwd": ".",
+      "env": {}
+    }
+  }
+}
